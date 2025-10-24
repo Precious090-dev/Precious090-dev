@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**Precious090-dev/Precious090-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-👋 Hi there, I'm [Precious090-dev]
+👋 Hi there, I'm [Your Name]
 
 💻 About Me
 
